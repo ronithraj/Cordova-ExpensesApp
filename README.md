@@ -6,9 +6,9 @@ This works only for Android!
 
 Pre-requisites:-
 ----------------
-Cordova
-Android Studio (Emulator)
-node.js 
+Cordova,
+Android Studio (Emulator),
+node.js ,
 npm
 
 For reference:
