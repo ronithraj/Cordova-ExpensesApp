@@ -23,3 +23,6 @@ Open the folder and type "npm install" from command prompt.All the dependent nod
 
 
 You want to directly use the .apk file and start using the app then download just the app-debug.apk file and install it on android mobiles and start using it.
+
+There are many pending tasks.
+Bug fixes,Update functionality and others must be included.
