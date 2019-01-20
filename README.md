@@ -4,6 +4,13 @@ This is a simple cordova app to make list of expenses, instead of keeping them i
 
 This works only for Android!
 
+Pre-requisites:-
+----------------
+Cordova
+Android Studio (Emulator)
+node.js 
+npm
+
 For reference:
 https://www.c-sharpcorner.com/UploadFile/75a48f/basic-calculator-using-cordova/
 
@@ -11,6 +18,8 @@ First you need to enter the initial amount you have and subsequently add the exp
 
 Check the screenshots to understand it better.
 
-After you download the project,Open the folder and type "npm install" from command prompt.All the dependent node modules will be installed and that's all the app works..!
+After you download the project,For creating the platforms and other necessary folders refer the link mentioned and 
+Open the folder and type "npm install" from command prompt.All the dependent node modules will be installed.
 
-If anything goes wrong checkout the link mentioned above. You want to directly use the .apk file and start using the app then download just the .apk file and install it on android mobiles and start using it.
+
+You want to directly use the .apk file and start using the app then download just the app-debug.apk file and install it on android mobiles and start using it.
